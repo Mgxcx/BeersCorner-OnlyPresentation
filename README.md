@@ -10,7 +10,6 @@ Création d'une application mobile pour un bar à bières contenant une page d'a
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers7_zj4ey7.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers2_sg4txb.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers3_m6tpi3.png)
-![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers3_m6tpi3.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers9_aiqrga.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229161/Beers11_edzl3t.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229161/Beers10_ynxhln.png)
