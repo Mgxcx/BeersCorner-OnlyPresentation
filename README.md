@@ -1,6 +1,6 @@
 BeersCorner-OnlyPresentation
 
-Création d'une application mobile pour un bar à bières contenant une page d'accueil avec toutes les actualités, une page pour stocker des produits favoris, une page de catalogue de produits, une page dédiée au panier et au processus de commande (incluant le paiement), et une page de compte client. 
+Création d'une application React Native pour un bar à bières contenant une page d'accueil avec toutes les actualités, une page pour stocker des produits favoris, une page de catalogue de produits, une page dédiée au panier et au processus de commande (incluant le paiement), et une page de compte client. 
 
  - Prototypage & Conception : création de la maquette, et de l'UI Kit de l'application mobile. Requêtes à leur API, gestion du paiement avec Stripe, et gestion de l'authentification avec Firebase.
 - Technos utilisées : React Native / Redux / Node.js / Express.js 
