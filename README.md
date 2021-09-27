@@ -22,7 +22,7 @@ Stripe, et gestion de l'authentification avec Firebase.
 
 Progrès techniques : mise en place de l'atomic design en front, et amélioration de l'architecture MVC: sous forme de services, controllers, routers en back.
 
-J'ai été suivie par des seniors qui ont revu tout mon code pour cette app afin de mettre en place les meilleures bonnes pratiques et architectures
+J'ai été suivie par des seniors qui ont revu tout mon code pour cette app afin de mettre en place les meilleures bonnes pratiques et architectures.
 
 CODE CONFIDENTIEL 
 
