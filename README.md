@@ -25,7 +25,7 @@ Progrès techniques : mise en place de l'atomic design en front, et amélioratio
 J'ai été suivie par des seniors qui ont revu tout mon code pour cette app afin de mettre en place les meilleures bonnes pratiques et architectures.
 
 CODE CONFIDENTIEL 
-
+![alt text](https://www.youtube.com/watch?v=jpcKRsbO8po)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers1_ja1bqs.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers6_tjuyol.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers7_zj4ey7.png)
