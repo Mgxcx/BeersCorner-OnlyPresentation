@@ -26,11 +26,11 @@ J'ai été suivie par des seniors qui ont revu tout mon code pour cette app afin
 
 CODE CONFIDENTIEL 
 
+![alt text](https://j.gifs.com/jY8zxy.gif)
+
 
 https://www.youtube.com/watch?v=jpcKRsbO8po
 
-
-![alt text](https://j.gifs.com/jY8zxy.gif)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers1_ja1bqs.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers6_tjuyol.png)
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1632229160/Beers7_zj4ey7.png)
