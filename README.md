@@ -1,4 +1,4 @@
-BeersCorner-OnlyPresentation
+BeersCorner (Presentation)
 
 Beer’s Corner est un bar à bières situé au Plessis-Belleville. C’est un bar
 accueillant une clientèle d’habitués, qui a pris l’habitude pendant le
